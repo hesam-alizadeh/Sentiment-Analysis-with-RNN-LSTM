@@ -1,0 +1,12 @@
+# Use the Runflare PyPI mirror for all installs from this file.
+# --index-url https://mirror-pypi.runflare.com/simple
+--index-url https://package-mirror.liara.ir/repository/pypi/simple
+
+# Add project dependencies below.
+numpy
+torch 
+scikit-learn 
+pytest 
+pathlib 
+dataclasses 
+tqdm
